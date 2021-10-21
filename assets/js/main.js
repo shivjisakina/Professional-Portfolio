@@ -1,5 +1,5 @@
 /**
-* Template Name: Folio - v4.6.0
+* Template Name: Sakina- v4.6.0
 * Template URL: https://bootstrapmade.com/folio-bootstrap-portfolio-template/
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
